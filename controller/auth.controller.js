@@ -1,5 +1,4 @@
 import PetOwner from "../model/petOwner.model.js";
-import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
 
 // Signup function
